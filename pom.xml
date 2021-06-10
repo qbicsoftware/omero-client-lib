@@ -19,7 +19,7 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
-		<omero.version>5.4.10-ice36-b105</omero.version>
+		<omero.version>5.5.0-m2-ice36</omero.version>
 		<bioformats.version>5.8.2</bioformats.version>
 	</properties>
 
