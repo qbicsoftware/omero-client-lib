@@ -20,7 +20,7 @@
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
 
 		<omero.version>5.4.10-ice36-b105</omero.version>
-		<bioformats.version>5.8.2</bioformats.version>
+		<bioformats.version>6.6.1</bioformats.version>
 	</properties>
 
 	<pluginRepositories>
